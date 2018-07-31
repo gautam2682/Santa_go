@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ===========================
+  THEME INFO
+  =========================== -->
+  <meta name="description" content="SantaGo is another free Bootstrap HTML Christmas sales and affiliate page template built and distributed by EvenFly Team as a small Cristmas gift under Creative Commons 3.0 license.">
+  <meta name="keywords" content="Christmas Template, Free Christmas Landing Page, Christmas Affiliate Landing Page, Free Christmas Sales Page Template">
+  <meta name="author" content="Mamun Srizon">
+
+  <!-- ===========================
+  SITE TITLE
+  =========================== -->
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>Movies</title>
+  <!-- TemplateEndEditable -->
+  <!-- ===========================
+  FAVICONS
+  =========================== -->
+  <link rel="icon" href="Quote/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="Quote/img/apple-touch-icon-ipad-retina.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="Quote/img/apple-touch-icon-iphone-retina.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="Quote/img/apple-touch-icon-ipad.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="Quote/img/apple-touch-icon-iphone.png" />
+
+  <!-- ===========================
+  STYLESHEETS
+  =========================== -->
+
+  <link href="css/w3.css" rel="stylesheet">
+  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/prettyPhoto.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/animate.css">
+
+  <!-- ===========================
+  FONTS
+  =========================== -->
+<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+  <!-- ===========================
+  GOOGLE ANALYTICS (Optional)
+  =========================== -->
+
+  <!-- #NOTE: Replace this line with your analytics code -->
+
+  <!--ANALYTICS END-->
+
+  <!--[if IE]>
+  <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body data-spy="scroll" data-target="#navbar" data-offset="0">
+
+  <header id="header" role="banner" >
+    <div class=" w3-animate-opacity">
+      <div id="navbar" class="navbar navbar-default">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand center w3-xlarge w3-margin-top" href="index.html">Lsnlearn</a>
+        </div>
+        <div class="collapse navbar-collapse ">
+          <ul class="nav navbar-nav">
+            <li><a href="#home"><i class="icon-home"></i></a></li>
+            <li><a href="Movies.html">Movies</a></li>
+            <li><a href="musics.html">Music</a></li>
+            <li><a href="quotes.html">Quotes</a></li>
+            <li><a href="#about-us">Comment</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header><!--/#header-->
+  <!-- TemplateBeginEditable name="content" -->
+
+  <!-- ===========================
+  OVERVIEW SECTION
+  =========================== -->
+    
+    <section  id="movies">
+       <div class="calltoaction">
+           <div class="lightoverlay">
+              <div class="container">
+                <div class="marginnav">
+                <h3 class="highlight center w3-center"><i class="icon-play icon-md icon-color4"></i>MOVIES</h3>
+                <div class="row">
+                <!-- first row 2015
+                -->
+                   <h2 class="center w3-text-green" >2015</h2>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow fadeIn">
+                             <a href="Movie/madmax.html"><img class="img-thumbnail w3-margin-top " data-wow-duration="2s" alt="mad  max "                               src ="img/mad.jpg">
+                              <br><br><span class="badge ">2015</span>     <span class="w3-badge w3-red">IMDB-8.2</span><br>
+                              <button class="btn btn-default">MAD MAX:FURY ROAD</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p  class="w3-text-white">In an apocalyptic world, a tyrant rules over a stark desert, controlling every drop                                      of water.                                Two rebels, one escaping grief and the other reaching out to                                    her childhood, are the last hope for a few.</p> 
+                              </div>      
+                         </div>
+                     </div><!--/.col-md-4-->
+                  
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="center  wow fadeIn" data-wow-duration="3s">
+                             <a href=" Movie/creed.html"><img class="img-thumbnail w3-margin-top "   alt=  "Intersteller" src="                                  img/creed.jpg">
+                              <br><br><span class="badge ">2015</span>   <span class="w3-badge w3-red">IMDB-7.9</span><br>
+                              <button class="btn btn-default ">CREED</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to                                 Adonis                              Johnson, the son of his late friend and former rival Apollo Creed.</p>                             
+                               </div>
+                         </div>
+                     </div><!--/.col-md-4-->
+                    <div class="col-md-4 col-sm-6 ">
+                            <div class="center wow fadeIn" data-wow-duration="4s">
+                             <a href=" Movie/exmachina.html"><img class="img-thumbnail w3-margin-top  "   alt="ex   machina "  src="                               img/exmachina.jpg">
+                             <br><br><span class="badge ">2015</span>     <span class="w3-badge w3-red">IMDB-7.7</span><br>
+                              <button class="btn btn-default">EX MACHINA</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">A young programmer is selected to participate in a ground-breaking                                   experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I..                                </p>                              </div>
+                         </div>
+                     </div><!--/.col-md-4-->
+                    </div>
+                  <!--second row2015
+                  --->
+                  <div class="row">
+                  <div class="col-md-4 col-sm-6 ">
+                        <div class="center  wow  fadeIn" data-wow-duration="2s" >
+                             <a href="Movie/the martian.html"><img class="img-thumbnail w3-margin-top "  alt="The     martian "   src="                                    img/martian.jpg">
+                              <br><br><span class="badge ">2015</span>     <span class="w3-badge w3-red">IMDB-8.1</span><br>
+                              <button class="btn btn-default">THE MARTIAN</button></a>
+
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">During a manned mission to Mars, Astronaut Mark Watney is presumed dead                                 after a fierce storm and left behind by his crew. He must draw courage to find a way that he is alive..</p>    
+                              </div>   
+                         </div>
+                     </div><!--/.col-md-4-->
+                     <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow   fadeIn" data-wow-duration="3s">
+                             <a href="Movie/impossible.html"><img class="img-thumbnail w3-margin-top  "   alt="The    martian "  src="                                 img/impossible.jpg">
+                              <br><br><span class="badge ">2015</span>     <span class="w3-badge w3-red">IMDB-7.5</span><br>
+                              <button class="btn btn-default">Mission: Impossible – Rogue Nation</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">Ethan and team take on their most impossible mission yet, eradicating the Syndicate                                - an   International rogue organization as highly skilled as they are, committed to destroying the IMF.</p>    
+                              </div>   
+                         </div>
+                     </div><!--/.col-md-4-->
+                  </div>
+                  <!-- 1 st row 2014
+                  --->
+                  
+                  <div class="row">
+                   <h2 class="center w3-text-green" >2014</h2>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn " data-wow-duration="4s" >
+                             <a href="Movie/The imitation game.html"><img class="img-thumbnail w3-margin-top "  alt=     "Intersteller   "                             src="img/imitation.jpg">
+                              <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-8.1</span><br>
+                              <button class="btn btn-default">THE IMITATION GAME</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p  class="w3-text-white">During World War II, mathematician Alan Turing tries to crack the enigma code with                                help from                                       fellow mathematicians.</p> 
+                              </div>      
+                         </div>
+                     </div><!--/.col-md-4-->
+                  
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn" data-wow-duration="2s" >
+                             <a href="Movie/gonegirl.html"><img class="img-thumbnail w3-margin-top "  alt=   "Intersteller " src="                              img/gonegirl.jpg">
+                              <br><br><span class="badge ">2014</span>   <span class="w3-badge w3-red">IMDB-8.1</span><br>
+                              <button class="btn btn-default">GONE GIRL</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">With his wife's disappearance having become the focus of an intense media circus, a                                        man sees                                      the spotlight turned on him when it's suspected that                              he may not be innocent.</p>                             
+                               </div>
+                         </div>
+                     </div><!--/.col-md-4-->
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn" data-wow-duration="3s" >
+                             <a href="Movie/sniper.html"><img class="img-thumbnail w3-margin-top  "  alt=    "Intersteller" src=                                  "img/sniper.jpg">
+                             <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-7.3</span><br>
+                              <button class="btn btn-default">AMERICAN SNIPER</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the                             battlefield       and turns him into a legend. Back home to his wife and kids after four tours of duty,                               however, Chris            finds that it is the war he can't leave behind.</p>    
+                              </div>   
+                         </div>
+                     </div><!--/.col-md-4-->
+                  </div>
+                  <!-- 2 st row 2014
+                  --->
+                  <div class="row">
+                  <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn" data-wow-duration="2s">
+                             <a href="Movie/intersteller.html"><img class="img-thumbnail w3-margin-top  "   alt=   "Intersteller 	" src="                               img/intersteller.jpg">
+                              <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-8.6</span><br>
+                              <button class="btn btn-default">INTERSTELLER</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p  class="w3-text-white">A team of explorers travel through a wormhole in space in an attempt to    ensure                                           human  survival.</p> 
+                              </div>      
+                         </div>
+                     </div><!--/.col-md-4-->
+                     <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn" data-wow-duration="3s">
+                             <a href="Movie/bestofme.html"><img class="img-thumbnail w3-margin-top "   alt=  "Intersteller   " src=                                "img/bestofme.jpg">
+                             <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-6.6</span><br>
+                              <button class="btn btn-default">THE BEST OF ME</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">THE BEST OF ME is the heart-rending story of two small-town former high school sweethearts from opposite sides of the tracks. Now middle-aged, they've taken wildly divergent paths, but neither has lived the life they imagined </p>    
+                              </div>   
+                         </div>
+                         
+                     </div><!--/.col-md-4-->
+                     <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn" data-wow-duration="4s" >
+                             <a href="Movie/edgeoftomorrow.html"><img class="img-thumbnail w3-margin-top "  alt= "Intersteller   " src=                                "img/edgetomorrow.jpg">
+                             <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-7.9</span><br>
+                              <button class="btn btn-default">EDGE OF TOMORROW</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">With the help of warrior Rita Vrataski, Major William Cage has to save Planet Earth                             from an alien species, after being caught in a time loop. Does he have the skills to exterminate the aliens?                               </p>    
+                              </div>   
+                         </div> 
+                     </div><!--/.col-md-4-->
+                  </div>
+                 <!-- 3 st row 2014
+                  --->
+                     <div class="row">
+                  <div class="col-md-4 col-sm-6 ">
+                        <div class="center  wow  animated fadeIn" data-wow-duration="2s">
+                             <a href="Movie/faultinourstars.html"><img class="img-thumbnail w3-margin-top "   alt=     "Intersteller 	"                                  src="img/stars.jpg">
+                              <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-7.9</span><br>
+                              <button class="btn btn-default">THE FAULT IN OUR STARS</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p  class="w3-text-white">Hazel Grace, a teenage girl, suffers from terminal thyroid cancer. Her mother                                  forces her to attend a cancer patients' support group, where she meets Augustus Waters and falls in love                              with him.</p> 
+                              </div>      
+                         </div>
+                     </div><!--/.col-md-4-->
+                     <div class="col-md-4 col-sm-6 ">
+                        <div class="center wow  animated fadeIn" data-wow-duration="3s" >
+                             <a href="Movie/nonstop.html"><img class="img-thumbnail w3-margin-top "  alt=    "Intersteller   " src="                                         img/nonstop.jpg">
+                             <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-7</span><br>
+                              <button class="btn btn-default">NON-STOP</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">A US air marshal receives threatening messages demanding that his airline transfer 150 million dollars to an offshore account, in the absence of which the passengers of his flight will be killed.</p>    
+                              </div>   
+                         </div>
+                         
+                     </div><!--/.col-md-4-->
+                     <div class="col-md-4 col-sm-6 ">
+                        <div class="center  wow  animated fadeIn" data-wow-duration="4s" >
+                             <a href="Movie/lucy.html"><img class="img-thumbnail w3-margin-top"  alt=  "Intersteller   " src="img/lucy.jpg">
+                             <br><br><span class="badge ">2014</span>     <span class="w3-badge w3-red">IMDB-6.4</span><br>
+                              <button class="btn btn-default">LUCY</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">A woman's strength and thinking power grow exponentially after the effects of a                                  performance-enhancing drug set in.                               </p>    
+                              </div>   
+                         </div> 
+                     </div><!--/.col-md-4-->
+                  </div>
+                
+              </div>
+            </div>
+          </div>
+         </div>
+        <!-- old from 2013
+        --->
+        <div class="calltoaction">
+           <div class="darkoverlay">
+              <div class="container ">
+              <div class="row">
+              <h2 class="center w3-text-green" >2013</h2>
+                <div class="col-md-4 col-sm-6 ">
+                   <div class="center  wow  animated fadeIn" data-wow-duration="2s" >
+                             <a href="Movie/rush.html"><img class="img-thumbnail w3-margin-top "  alt=    "Intersteller   " src="img/rush.jpg">
+                             <br><br><span class="badge ">2013</span>     <span class="w3-badge w3-red">IMDB-8.2</span><br>
+                              <button class="btn btn-default">RUSH</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.</p>    
+                              </div>   
+                         </div>
+                
+                
+                </div>
+                <div class="col-md-4 col-sm-6 ">
+                   <div class="center wow  animated fadeIn" data-wow-duration="3s"  >
+                             <a href="Movie/gravity.html"><img class="img-thumbnail w3-margin-top " alt="Intersteller   " src="img/gravity.jpg">
+                             <br><br><span class="badge ">2013</span>     <span class="w3-badge w3-red">IMDB-7.9</span><br>
+                              <button class="btn btn-default">GRAVITY</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">Dr. Ryan Stone, an engineer on her first time on a space mission, and Matt Kowalski,                      an      astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.                                 </p>    
+                              </div>   
+                         </div>
+             </div><!--col md-4-->
+             <div class="col-md-4 col-sm-6 ">
+                   <div class="center wow  animated fadeIn" data-wow-duration="3s" >
+                             <a href="Movie/internship.html"><img class="img-thumbnail w3-margin-top "  alt=   "Intersteller   " src=                                "img/intership.jpg">
+                             <br><br><span class="badge ">2013</span>     <span class="w3-badge w3-red">IMDB-6.3</span><br>
+                              <button class="btn btn-default">THE INTERNSHIP</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">Salesmen Billy and Nick find themselves unemployed in the digital world. In a bid to prove their competence, they try to bag an internship at Google, where they must beat some tech-savvy geniuses.</p>    
+                              </div>   
+                         </div>
+             </div><!--col md-4-->
+               </div><!--row ended-->
+               
+               <!-- 2010 row-->
+               <div class="row">
+                 <h2 class="center w3-text-green" >2010</h2>
+                <div class="col-md-4 col-sm-6 ">
+                   <div class="center wow  animated fadeIn"  data-wow-duration="4s">
+                             <a href="Movie/socialnetwork.html"><img class="img-thumbnail w3-margin-top "  alt=   "Intersteller  " src="img/socialnetwork.jpg">
+                             <br><br><span class="badge ">2010</span>     <span class="w3-badge w3-red">IMDB-7.7</span><br>
+                              <button class="btn btn-default">THE SOCIAL NETWORK</button></a>
+                              <div class="w3-padding w3-card-12 w3-margin-top w3-blue">
+                              <p class="w3-text-white">Mark Zuckerberg creates a social networking site, Facebook, with the help of his                                 friend Eduardo Saverin. But soon, a string of lies tears their relationship apart even as Facebook                                   connects people.</p>    
+                              </div>   
+                         </div>
+               
+              </div><!--col md-4-->
+              
+              </div>
+             </div>
+            </div>
+           </div>
+              
+       </section>
+            <!-- TemplateEndEditable -->
+    
+  
+                          <!-- ===========================
+                          SUBSCRIBE SECTION
+                          =========================== -->
+                          <div id="subscribe">
+                            <div class="darkoverlay">
+                              <div class="container text-center">
+                                <img class="santaicon wow tada infinite" data-wow-duration="20s" src="img/santa-sm.png" alt="">
+                                <div class="sectionhead">
+                                  <h2>Don’t miss the <span class="highlight">upcoming hot Music lessons</span> amymore</h2>
+                                  <p>Just give us your email address below, and forget it. We’ll send you every time we have something special for                                     you. No worries, Santa never send spam mails. And you can unsubscribe anytime as well.</p>
+                                </div><!--SECTIONHEAD END-->
+
+                                <!--MAILCHIMP FORM START-->
+                                  <div class="mailchimp">
+                                  <form action="http://evenfly.us8.list-manage.com/subscribe/post?u=62bca83399cf0083546588b62&amp;id=f85a072005"                                     method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"                                     novalidate><!-- #NOTE: Replace this with your Mailchimp action URL -->
+
+                                    <input type="text" value="" name="FNAME" id="mce-FNAME" placeholder="First Name" required>
+                                    <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Email Address" required>
+                                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-inverse">
+                                  </form>
+                                </div>
+                              </div><!--SUBSCRIBE CONTAINER END-->
+                            </div><!--OVERLAY END-->
+                          </div><!--SUBSCRIBE SECTION END-->
+
+                          <!-- ===========================
+                          FOOTER
+                          =========================== -->
+                          <footer class="container text-center">
+                          <h2>The only mistake in life is  <span class="highlight"> Lessons </span> not learned</h2>
+                           <h4 class="w3-blockquote w3-text-cyan">by   Albert Einstein</h4>
+                            
+                          </footer><!--FOOTER END-->
+
+                          <!-- ===========================
+                          SOCIAL ICONS
+                          =========================== -->
+                          <div class="sticky-container">
+                            <ul class="sticky">
+                              <li>
+                                <a href="">
+                                  <img title="" alt="" src="img/facebook.svg" />
+                                  <p>Facebook</p>
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="">
+                                  <img title="" alt="" src="img/twitter.svg" />
+                                  <p>Twitter</p>
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="">
+                                  <img title="" alt="" src="img/pinterest.svg" />
+                                  <p>Pinterest</p>
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="">
+                                  <img title="" alt="" src="img/linkedin.svg" />
+                                  <p>Linkedin</p>
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="">
+                                  <img title="" alt="" src="img/google_plus.svg" />
+                                  <p>Google Plus</p>
+                                </a>
+                              </li>
+
+                              <li>
+                                <a href="">
+                                  <img title="" alt="" src="img/instagram.svg" />
+                                  <p>Instagram</p>
+                                </a>
+                              </li>
+
+                            </ul>
+                          </div>
+
+                          <!-- ===========================
+                          NECESSARY SCRIPTS
+                          =========================== -->
+                          <script src="js/jquery.js"></script>
+                          <script src="js/bootstrap.min.js"></script>
+                          <!--<script src="js/jquery.isotope.min.js"></script>-->
+                          <!--<script src="js/jquery.prettyPhoto.js"></script>-->
+                          
+						  <!--<script src="js/jquery.nicescroll.min.js"></script>-->
+                          
+                          <!--<script src="js/evenfly.js"></script> -->
+                            <!--<script src="js/main.js"></script>-->
+                          <script src="js/wow.min.js"></script>
+                          <script>new WOW().init();</script>
+                          </body>
+                        </html>
+
+
+
+
+
+
+
+
